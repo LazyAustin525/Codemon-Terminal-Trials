@@ -127,6 +127,7 @@ mvn exec:java -Dexec.mainClass=Codemon.PKMList
 ## Sample Output
 
 ### Main Menu
+<img width="417" height="300" alt="image" src="https://github.com/user-attachments/assets/c878417d-d16f-485d-b5b3-d24058173816" />
 
 ## Author and Acknowledgement
 
