@@ -129,6 +129,25 @@ mvn exec:java -Dexec.mainClass=Codemon.PKMList
 ### Main Menu
 <img width="417" height="300" alt="image" src="https://github.com/user-attachments/assets/c878417d-d16f-485d-b5b3-d24058173816" />
 
+---
+### Battle Arena
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/6beafeaa-0ef8-4e68-ad4b-a2ab285ea6da" />
+
+---
+### Codex
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/e1c01919-7614-42b3-9818-e87553feb4d6" />
+
+---
+### Credits
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/d9559b77-b752-4c0e-95fe-100a88c88964" />
+
+---
+### Exit
+![Uploading image.png…]()
+
+
+
+
 ## Author and Acknowledgement
 
 Created by: 
