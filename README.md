@@ -131,22 +131,23 @@ mvn exec:java -Dexec.mainClass=Codemon.PKMList
 
 ---
 ### Battle Arena
-<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/6beafeaa-0ef8-4e68-ad4b-a2ab285ea6da" />
+<img width="690" height="862" alt="image (4)" src="https://github.com/user-attachments/assets/09e87b90-d560-4d92-8d6e-602afca209cd" />
 
 ---
 ### Codex
-<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/e1c01919-7614-42b3-9818-e87553feb4d6" />
+<img width="254" height="863" alt="image (2)" src="https://github.com/user-attachments/assets/afd97d85-6784-407e-a5b2-649dd8635652" />
+
 
 ---
 ### Credits
-<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/d9559b77-b752-4c0e-95fe-100a88c88964" />
+<img width="596" height="155" alt="image (5)" src="https://github.com/user-attachments/assets/c23dbadd-b8dd-4f93-8c18-95651cd2a149" />
+
 
 ---
 ### Exit
-![Uploading image.png…]()
+<img width="430" height="357" alt="image (6)" src="https://github.com/user-attachments/assets/1dfae7d2-d02d-4ac1-b080-4aa8b8dc4f89" />
 
-
-
+---
 
 ## Author and Acknowledgement
 
