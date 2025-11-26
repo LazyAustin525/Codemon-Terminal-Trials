@@ -126,85 +126,14 @@ mvn exec:java -Dexec.mainClass=Codemon.PKMList
 
 ## Sample Output
 
-### Main Menu (Colorful Terminal)
-```
---- Terminal Pokémon Battle ---
-1. Battle
-2. Pokémon List
-3. Credits
-4. End Game
+### Main Menu
 
-Choose: 1
-```
-
-### Difficulty Selection
-```
-Choose difficulty:
-1. Easy
-2. Hard
-1 or 2?: 1
-
-Opponent: Charizard (Type: fire)
-Choose your Pokémon ID (1-151): 25
-```
-
-### Battle in Progress (Colorful with HP Bars)
-```
-⚔️ Battle Start! ⚔️
-Go! Pikachu!
-
-=== Battle Menu ===
-Pikachu HP: [████████████████████]   Charizard HP: [████████████████████]
-1. Fight
-2. Run
-
-Choose: 1
-
-Your Moves:
-1. Thunder Shock (electric, 40)
-2. Thunder Wave (electric, 0)
-
-Choose a move: 1
-
-Pikachu used Thunder Shock! It's super effective! Dealt 65 damage.
-Charizard used Flame Burst! Not very effective... Dealt 22 damage.
-
-=== Battle Menu ===
-Pikachu HP: [████████████████████]   Charizard HP: [█████████████████---]
-
-Choose: 1
-
-Pikachu used Thunder Shock! A critical hit! It's super effective! Dealt 97 damage.
-*** Charizard fainted! ***
-
-*** Victory! ***
-Pikachu gained 28 XP!
-Pikachu leveled up to Lv 2!
-Max HP increased to 36!
-
-Press Enter to continue...
-```
-
-### Pokémon List
-```
-=== First 151 Codémon ===
-1. bulbasaur
-2. ivysaur
-3. venusaur
-4. charmander
-5. charmeleon
-... (151 total)
-
-Press Enter to continue...
-```
-
----
 ## Author and Acknowledgement
 
 Created by:  
-- Apolinar, Jev Austin  
-- Arazula, Rjay  
-- Mendoza, Ken Frankie  
+- Apolinar, Jev Austin [LazyAustin525](https://github.com/LazyAustin525)
+- Arazula, Rjay [rjay29](https://github.com/rjay29)
+- Mendoza, Ken Frankie [Kenfrannn](https://github.com/Kenfrannn)
 
 **Acknowledgements**:
 - 🙏 [PokéAPI](https://pokeapi.co/) - Comprehensive Pokémon data API
