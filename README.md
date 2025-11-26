@@ -82,21 +82,6 @@ The project demonstrates core Object-Oriented Programming concepts while providi
 │ PKMList      → Fetch & display Pokémon   │
 │ PokeAPI      → Debug tool (main method)  │
 └──────────────────────────────────────────┘
-```
-
-### Key Classes (9 Files)
-
-| Class | Purpose | Responsibilities |
-|-------|---------|------------------|
-| `MainMenu.java` | Entry Point & UI | Menu loop, colorized options, Pokémon ID selection |
-| `BattleGame.java` | Battle Engine | Turn-based combat, damage calc, difficulty modes, pause |
-| `PKM.java` | Base Pokémon Model | Base class with stats (name, type, hp, attack, defense) |
-| `Species.java` | Concrete Pokémon | Level, experience, maxHp tracking, level-ups |
-| `Move.java` | Immutable Move Data | Move properties (name, type, power, accuracy) |
-| `Factory.java` | Pokémon Creator | Creates Species from PokéAPI (fetches 1-151) |
-| `TypeEffectiveness.java` | Type Cache | Caches type effectiveness multipliers from PokéAPI |
-| `PKMList.java` | Pokédex Viewer | Displays all 151 Pokémon with pause prompt |
-| `PokeAPI.java` | Debug Tool | Exports detailed stats for all Pokémon |
 
 ---
 
