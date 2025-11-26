@@ -130,10 +130,12 @@ mvn exec:java -Dexec.mainClass=Codemon.PKMList
 
 ## Author and Acknowledgement
 
-Created by:  
-- Apolinar, Jev Austin [LazyAustin525](https://github.com/LazyAustin525)
-- Arazula, Rjay [rjay29](https://github.com/rjay29)
-- Mendoza, Ken Frankie [Kenfrannn](https://github.com/Kenfrannn)
+Created by: 
+| Name | GitHub |
+|------|----------------|
+| Apolinar, Jev Austin | [LazyAustin525](https://github.com/LazyAustin525)
+| Arazula, Rjay | [rjay29](https://github.com/rjay29)|
+| Mendoza, Ken Frankie | [Kenfrannn](https://github.com/Kenfrannn)
 
 **Acknowledgements**:
 - 🙏 [PokéAPI](https://pokeapi.co/) - Comprehensive Pokémon data API
