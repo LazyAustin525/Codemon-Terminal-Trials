@@ -74,7 +74,7 @@ public class MainMenu {
 
     private static void printTitleArt() {
     System.out.println(Colors.RED +
-        "   ____ ___  ____  __//_ __  __  ___  _   _ \n" +
+        "\n   ____ ___  ____  __//_ __  __  ___  _   _ \n" +
         "  / ___/ _ \\|  _ \\| ____|  \\/  |/ _ \\| \\ | |\n" +
         " | |  | | | | | | | |_  | |  | | | | |  \\| |\n" +
         " | |  | | | | | | |  _| | |\\/| | | | |   \\ |\n" +
