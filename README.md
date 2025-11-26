@@ -2,11 +2,6 @@
 
 ---
 
-## Project Title
-**Codémon: Terminal Trials**
-
----
-
 ## Description / Overview
 Codémon is a command-line, turn-based Pokémon-inspired battle game built in Java.  
 It retrieves real Pokémon data from the PokéAPI and simulates classic mechanics such as moves, accuracy, type effectiveness, and leveling.  
