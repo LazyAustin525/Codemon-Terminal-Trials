@@ -50,6 +50,7 @@ public class MainMenu {
                     showCredits();
                     break;
                 case 4:
+                    clearScreen();
                     System.out.println(Colors.YELLOW + "\nSaving progress..." + Colors.RESET);
                     System.out.println(Colors.YELLOW + "Closing Codémon..." + Colors.RESET);
                     System.out.println(Colors.CYAN + "Thanks for playing Codémon!" + Colors.RESET);

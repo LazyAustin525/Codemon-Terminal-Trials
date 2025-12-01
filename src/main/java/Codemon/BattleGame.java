@@ -18,6 +18,7 @@ public class BattleGame {
     }
 
     public static void startBattle(Scanner scanner) {
+        clearScreen();
         System.out.println(Colors.CYAN + "\nChoose difficulty:" + Colors.RESET);
         System.out.println(Colors.GREEN + "1. Easy" + Colors.RESET);
         System.out.println(Colors.RED + "2. Hard" + Colors.RESET);
@@ -37,7 +38,7 @@ public class BattleGame {
             System.out.println(Colors.RED + "Opponent: " + opponent.getName() + " (Type: " + opponent.getType() + ")" + Colors.RESET);
             opponent = boostOpponent(opponent);
         }
-
+        clearScreen();
         System.out.println(Colors.CYAN + "\n~~ Battle Start! ~~" + Colors.RESET);
         System.out.println(Colors.GREEN + "Go! " + player.getName() + "!" + Colors.RESET);
         battleLoop(scanner, player, opponent);
@@ -100,7 +101,7 @@ public class BattleGame {
         System.out.print("Choose a move: ");
         int choice = scanner.nextInt() - 1;
         Move move = moves.get(choice);
-
+        clearScreen();
         if (new Random().nextInt(100) < move.getAccuracy()) {
             boolean crit = new Random().nextInt(16) == 0;
             double critMultiplier = crit ? 1.5 : 1.0;
@@ -185,5 +186,10 @@ public class BattleGame {
             original.getDefense() * 2,
             original.getMoves()
         );
+    }
+
+        private static void clearScreen() {
+        System.out.print("\033[H\033[2J");
+        System.out.flush();
     }
 }
